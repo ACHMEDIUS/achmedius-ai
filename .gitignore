@@ -1,0 +1,7 @@
+# .gitignore
+.env
+__pypackages__/
+__pycache__/
+*.pyc
+pdm.lock
+output/

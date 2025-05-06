@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: achmedius-ai
+Version: 0.1.0
+Summary: Automate viral video topic and visual prompt generation.
+Author-email: Your Name <your@email.com>
+Requires-Python: >=3.11
+Requires-Dist: openai>=1.77.0
+Requires-Dist: requests
+Requires-Dist: python-dotenv
